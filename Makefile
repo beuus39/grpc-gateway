@@ -2,6 +2,7 @@
 # shipped together with other files.
 # You don't have to rebuild these targets by yourself unless you develop
 # gRPC-Gateway itself.
+# add new version
 
 EXAMPLE_CLIENT_DIR=examples/internal/clients
 ECHO_EXAMPLE_SPEC=examples/internal/proto/examplepb/echo_service.swagger.json
